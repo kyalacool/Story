@@ -1,0 +1,2 @@
+This is the Textedit test
+Without -a
